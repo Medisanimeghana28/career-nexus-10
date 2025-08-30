@@ -9,38 +9,32 @@ All colors MUST be HSL.
 @layer base {
   :root {
     --background: 0 0% 100%;
-    --foreground: 215 25% 27%;
+    --foreground: 222.2 84% 4.9%;
 
     --card: 0 0% 100%;
-    --card-foreground: 215 25% 27%;
+    --card-foreground: 222.2 84% 4.9%;
 
     --popover: 0 0% 100%;
-    --popover-foreground: 215 25% 27%;
+    --popover-foreground: 222.2 84% 4.9%;
 
-    --primary: 220 91% 48%;
-    --primary-foreground: 0 0% 100%;
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
 
-    --secondary: 210 11% 96%;
-    --secondary-foreground: 215 25% 27%;
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
 
-    --muted: 210 11% 96%;
-    --muted-foreground: 215 13% 65%;
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
 
-    --accent: 180 65% 48%;
-    --accent-foreground: 0 0% 100%;
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
 
-    --destructive: 0 84% 60%;
-    --destructive-foreground: 0 0% 100%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
 
-    --border: 215 14% 89%;
-    --input: 215 14% 89%;
-    --ring: 220 91% 48%;
-
-    /* Professional networking theme */
-    --hero-gradient: linear-gradient(135deg, hsl(220 91% 48%) 0%, hsl(180 65% 48%) 100%);
-    --subtle-gradient: linear-gradient(180deg, hsl(0 0% 100%) 0%, hsl(210 11% 98%) 100%);
-    --card-hover-shadow: 0 10px 40px -10px hsl(220 91% 48% / 0.15);
-    --professional-shadow: 0 4px 20px -4px hsl(215 25% 27% / 0.1);
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
 
     --radius: 0.5rem;
 
