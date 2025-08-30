@@ -68,17 +68,6 @@ export default {
 				md: 'calc(var(--radius) - 2px)',
 				sm: 'calc(var(--radius) - 4px)'
 			},
-			backgroundImage: {
-				'hero-gradient': 'var(--hero-gradient)',
-				'subtle-gradient': 'var(--subtle-gradient)',
-			},
-			boxShadow: {
-				'card-hover': 'var(--card-hover-shadow)',
-				'professional': 'var(--professional-shadow)',
-			},
-			fontFamily: {
-				'display': ['Inter', 'system-ui', 'sans-serif'],
-			},
 			keyframes: {
 				'accordion-down': {
 					from: {
